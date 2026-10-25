@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "base": "1.1.20",
+  "base": "1.1.20.1024.1",
   "target": "1.1.20.1024.1",
   "notes": "",
-  "url": "https://raw.githubusercontent.com/hutchch/ALTTPR-Tracker-Patches/main/v1.1.20.1024.1-patch.trkpatch",
-  "sha256": "d296d5b4a663c2308233f1470d7a4b4e73cb3b735349cb7b77a2f06d0e791f98",
-  "sig": "OHya1EzUXyRouCHe/zlI6ZNRvf1XDMl4bXVHW54GQEVHFIOJCKCGh4pdCiOEwP4jNIdYs55LaPDp4Ti6Wpl8Dw=="
+  "url": "https://raw.githubusercontent.com/hutchch/ALTTPR-Tracker-Patches/main/v1.1.21.1024.1-patch.trkpatch",
+  "sha256": "2bea0dd7c022c5130a12125a83e37567a5788b92d544920dbc300dff5a4ed9d0",
+  "sig": "xYs5GTy1e7mid/NhJEwKAHPZHxP1u5e7eQ3NhcLvmzU1WN4/7BAVgX9VglKc/xOkkEGPVlsyDqRrljroWrVDAg=="
 }
