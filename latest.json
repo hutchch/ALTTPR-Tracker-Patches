@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "base": "1.1.20",
+  "target": "1.1.20.1023",
+  "notes": "",
+  "url": "https://github.com/hutchch/ALTTPR-Tracker-Patches/releases/download/v1.1.20.1023/v1.1.20.1024-patch.trkpatch",
+  "sha256": "07c82165eabe1cdf8a8f3b1313eed3fbbae6220354bc7ef4c16b1b6d51dd037a",
+  "sig": "kFE3CWuRLYgfj9UocXJX5KHOysqjj1FhICGR0G2dy3QeuEhYhkxNCTdgP91jDj5KVKXh7hnNewFCZ9ShqLO7Cw=="
+}
