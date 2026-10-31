@@ -1,12 +1,9 @@
 {
   "format": 1,
   "base": "1.1.21",
-  "also": [
-    "1.1.21.1030"
-  ],
   "target": "1.1.21.1",
   "notes": "",
   "url": "https://raw.githubusercontent.com/hutchch/ALTTPR-Tracker-Patches/main/v1.1.21.1-patch.trkpatch",
-  "sha256": "73b910d8df12359bd4631145e90cf1e740c755ba593c23b2e5363fe8932c50f7",
-  "sig": "VVh/e4knKpnMan86K6W7mIjf3b5Mm25eiGfG3kvMmot1JT9GucVzNaoIel6QJN4a+BQj6W5pvJq5O+dXjCYiDQ=="
+  "sha256": "dc8c8a4eaf18dfd54f4b7bcbd7c37c4de1750dcc5a06cf3c6bde911b8530bec3",
+  "sig": "9cMrNa4s79JZ9gFMy0xp8qkToOa3tzXI6nGdl6W5zgW3QbZmSvxQIkJN8oQsF+aCLBSoDgIy6ErpuAGC02RLDQ=="
 }
