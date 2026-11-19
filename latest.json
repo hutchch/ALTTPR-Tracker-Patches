@@ -1,9 +1,0 @@
-{
-  "format": 1,
-  "base": "1.1.21.1",
-  "target": "1.1.22",
-  "notes": "22 Nov Release",
-  "url": "https://raw.githubusercontent.com/hutchch/ALTTPR-Tracker-Patches/main/v1.1.22-patch.trkpatch",
-  "sha256": "76b68b9196511aa7cebb87afc01775aaa70eeb7023a45d0e9cb1ff548beedcc2",
-  "sig": "ZiULgMyXOBdvhWXOVTRLANEiZpXj3KUWCazlowRoHovkeT1WylcrNj1mg3xkf8er2Rx1hZ2FHnOorkHwnsJ0CQ=="
-}
